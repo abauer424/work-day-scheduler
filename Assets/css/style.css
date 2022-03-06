@@ -41,6 +41,8 @@ textarea{
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  padding-top: 30px;
+  text-transform: uppercase;
 }
 
 .past {
@@ -76,3 +78,4 @@ textarea{
   padding-top: 30px;
   padding-left: 20px;
 }
+
