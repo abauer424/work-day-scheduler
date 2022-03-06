@@ -38,6 +38,6 @@ Credit to Amber Bauer, W3Schools.com and AskBCS.
 
 ## License
 
-Please view the license <a href="./LICENSE">here.
+Please view the license <a href="https://github.com/abauer424/work-day-scheduler/blob/main/LICENSE">here.</a>
 
 
