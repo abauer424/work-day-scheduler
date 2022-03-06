@@ -13,10 +13,10 @@ document.getElementById("currentDay").innerHTML = moment().format("dddd, MMMM Do
 
 //text area
 function myFunction() {
-    var x = document.getElementById("hour-9").value;
+    var x = document.getElementById("text area").value;
     //set item
-    $("#hour-9 .description").val(localStorage.setItem("hour-9"));
+    $("#hour-9 .description").val(localStorage.setItem("text area"));
     //retrieve
-    document.getElementById("hour-9").innerHtml=
-    localStorage.getItem("hour-9");
+    document.getElementById("text area").innerHtml=
+    localStorage.getItem("text area");
 }
